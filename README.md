@@ -1,6 +1,6 @@
 # gametry
 
-A new Flutter project.
+Cryptogram game with armenian texts
 
 ## Getting Started
 
