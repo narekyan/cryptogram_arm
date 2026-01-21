@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "381093165605",
+    "project_id": "letsplaycryptogram",
+    "storage_bucket": "letsplaycryptogram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381093165605:android:97628b67253c029f479dcc",
+        "android_client_info": {
+          "package_name": "com.experimentalapps.letsplay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTZKdEpH19Q3Q8XIxNTmx_vY18nPb6Cxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
